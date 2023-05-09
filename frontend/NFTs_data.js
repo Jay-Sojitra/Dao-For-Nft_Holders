@@ -1,4 +1,4 @@
-import img1 from './photos/nft-min.jpg'
+import img1 from './photos/nft-min.jpg';
 
 export const data = [
     {
